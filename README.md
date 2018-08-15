@@ -1,4 +1,4 @@
-[SriGlug Logo ](/images.jpeg)
+![SriGlug Logo ](/images.jpeg)
 
 ## Welcome to GitHub Pages
 
